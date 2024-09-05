@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "02d6f2d1-165d-4349-8dce-d3d94684834d",
+    "name": "Antonia Weber",
+    "phone": "(474) 727-8482 x16122",
+    "email": "Nils_Koss36@gmail.com",
+    "job": "District Accounts Assistant"
+  },
+  {
+    "id": "d29ff7c4-b2d8-40bf-a0e8-d202a475ddd9",
+    "name": "Belinda Lind",
+    "phone": "792-421-4105",
+    "email": "Molly_Ferry79@hotmail.com",
+    "job": "Lead Quality Agent"
+  },
+  {
+    "id": "3a1eafc8-8348-431d-a81a-6f3afe3518c7",
+    "name": "Vickie Dicki",
+    "phone": "(212) 822-2492 x56830",
+    "email": "Liana7@gmail.com",
+    "job": "Product Solutions Liaison"
+  },
+  {
+    "id": "48ac0255-ac55-4b48-ba5f-55c197eab18c",
+    "name": "Omar Bode",
+    "phone": "1-562-321-3895 x99158",
+    "email": "Alvah_Goodwin@hotmail.com",
+    "job": "Forward Division Executive"
+  }
+]
